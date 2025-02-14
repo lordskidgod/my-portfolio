@@ -1,6 +1,6 @@
 import React from "react";
 import { ExternalLink, Github, ArrowUpRight } from "lucide-react";
-import { SiReact, SiNodedotjs, SiMongodb, SiTypescript, SiTensorflow, SiFirebase, SiSocketdotio, SiTailwindcss } from "react-icons";
+import { SiReact, SiNodedotjs, SiMongodb, SiTypescript, SiTensorflow, SiFirebase, SiSocketdotio, SiTailwindcss } from "react-icons/si";
 export const Projects = () => {
   const projects = [{
     title: "E-Commerce Platform",
