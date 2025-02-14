@@ -1,6 +1,6 @@
 import React from "react";
 import { Calendar, Briefcase, ArrowRight } from "lucide-react";
-import { SiReact, SiNodedotjs, SiTypescript, SiJavascript, SiTailwindcss, SiNextdotjs } from "react-icons/si";
+import { SiReact, SiNodedotjs, SiTypescript, SiJavascript, SiTailwindcss, SiNextdotjs } from "react-icons";
 export const Experience = () => {
   const experiences = [{
     title: "Senior Frontend Developer",
